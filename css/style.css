@@ -219,9 +219,8 @@ img {
 }
 #body.home .header div a.more {
 	background-color: #000000;
-	color: #a3a3a3;
-	display: block;
-	float: right;
+	color: rebeccapurple;
+	display: inline-block;
 	font-family: Arial;
 	font-size: 18px;
 	font-weight: normal;
